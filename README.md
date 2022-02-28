@@ -1,8 +1,8 @@
-# Komputasi Awan
+# Pemrograman Citra dan Visi Kompputer
 
 |  |  |
 |--|--|
-| Dosen Pengampu | [Mungki Astiningru, ST.,M.Kom.](https://github.com/mungkipolinema) |
+| Dosen Pengampu | [Mungki Astiningrum, ST.,M.Kom.](https://github.com/mungkipolinema) |
 | Tahun Ajaran | Genap 2021/2022 |
 | Mata Kuliah | Pengolahan Citra dan Visi Komputer |
 | Institusi | jti.polinema.ac.id |
