@@ -1,4 +1,4 @@
-# Pengolahan Citra dan Visi Kompputer
+# Pengolahan Citra dan Visi Komputer
 
 |  |  |
 |--|--|
